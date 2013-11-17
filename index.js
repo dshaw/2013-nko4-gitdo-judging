@@ -1,3 +1,3 @@
 /* @todo: evaluate gitdo */
 
-/* dshaw */
+/* @todo: todo after account creation */
